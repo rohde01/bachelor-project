@@ -32,4 +32,4 @@ tectonic -Z continue-on-errors main.tex
 
 ## Notes
 
-Written with Emil Oliver Olesen. The template needs XeLaTeX, which tectonic uses. <!-- TODO: link the scheduling tool's code, possibly the field-schedule repo -->
+Written with Emil Oliver Olesen. The template needs XeLaTeX, which tectonic uses. The scheduling tool's code is in [field-schedule](https://github.com/rohde01/field-schedule).
